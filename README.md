@@ -9,4 +9,4 @@ samples({ vox: 'after-hours/vocals.flac' },
 
 | 目录 | 内容 |
 | --- | --- |
-| `after-hours/` | `vocals.flac`（人声 stem，44.1 kHz 无损）+ `after-hours.strudel.js`（按段落重排的 Strudel 代码，109 BPM） |
+| `after-hours/` | `vocals.flac`（人声 stem，44.1 kHz 无损）+ `after-hours.strudel.js`（由原始 MIDI 转换、按段落重排的 Strudel 代码，109 BPM） |

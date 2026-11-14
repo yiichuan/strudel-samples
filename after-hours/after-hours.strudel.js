@@ -161,7 +161,7 @@ const bassgtr = p => voice("triangle", p)
   .lpf(BASS_LPF).lpq(.5)
   .attack(BASS_ATTACK).decay(0).sustain(1).release(BASS_RELEASE)
   .legato(BASS_LEGATO)
-  .gain(2.6);
+  .gain(1.5);
 
 // popsynth — 合成低音（supersaw）
 //   POP_GAIN —— 音量
